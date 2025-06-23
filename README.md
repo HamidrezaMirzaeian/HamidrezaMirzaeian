@@ -1,8 +1,8 @@
 - Hi, I’m Hamidreza Mirzaeian
-- I’m interested in Wind Energy
-- I’m currently working on Wind Farm Layout Optimization.
-- I’m looking to collaborate on projects related to applying innovative computational techniques for Wind Energy problems.
-- You can find me on Linkedin: https://www.linkedin.com/in/hamidrezamirzaeian
+- I’m passionate about Wind Energy
+- I’m a PhD researcher at UNIZAR, currently working on Wind turbine fault detection.
+- I’m looking to collaborate on projects related to applying innovative computational techniques to wind energy problems.
+- You can find me on LinkedIn: https://www.linkedin.com/in/hamidrezamirzaeian
 
 
 <!---
